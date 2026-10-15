@@ -41,6 +41,7 @@ During the initial review, the objective was to identify areas where the origina
 - **Navigation and usability:** Reviewing links and navigation elements to provide a clearer browsing experience.
 - **Image presentation:** Improving the placement, sizing, and integration of images.
 - **User engagement:** Making the interface more visually interesting through improved design and appropriate interactive elements.
+- **Data was wrond:** Some data had to gone through to check the detials properly likt for example it said 16+ but the club was established in 2012.
 
 These observations guided the redesign, with the goal of presenting information more clearly without losing the club's original identity.
 
@@ -60,11 +61,11 @@ The overall goal was to create an experience that feels modern and memorable whi
 
 ## 🧩 3. Problem Encountered and Solution
 
-**Problem:** [Describe one actual issue you encountered while developing the website.]
+**Problem:** One challenge during development was ensuring that the website's visual elements, particularly images and layout components, worked together correctly. Image sizing and positioning can affect the overall layout, especially when different images have different aspect ratios.
 
-**How I encountered it:** [Explain what you were doing when the issue appeared and what went wrong.]
+**How I encountered it:** To address this, I reviewed the relevant HTML and CSS, adjusted the image dimensions and layout properties, and checked how the changes affected the surrounding content. I then previewed the website and refined the styling to achieve a more consistent presentation.
 
-**Solution:** [Explain the changes you made, how you tested them, and how you confirmed that the issue was resolved.]
+**Solution:** Used Ai and my knowledge to overcome it used HTML,CSS and JS . Maintaining the detials i tried to make it look real good.
 
 This experience helped me improve my debugging approach and understand the importance of testing changes before deployment.
 
