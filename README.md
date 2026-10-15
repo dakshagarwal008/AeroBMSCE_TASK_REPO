@@ -41,7 +41,7 @@ During the initial review, the objective was to identify areas where the origina
 - **Navigation and usability:** Reviewing links and navigation elements to provide a clearer browsing experience.
 - **Image presentation:** Improving the placement, sizing, and integration of images.
 - **User engagement:** Making the interface more visually interesting through improved design and appropriate interactive elements.
-- **Data was wrond:** Some data had to gone through to check the detials properly likt for example it said 16+ but the club was established in 2012.
+- **Data was wrong:** Some data had to gone through to check the detials properly likt for example it said 16+ but the club was established in 2012.
 
 These observations guided the redesign, with the goal of presenting information more clearly without losing the club's original identity.
 
